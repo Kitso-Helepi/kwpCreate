@@ -1,0 +1,6 @@
+{
+  "name": "KWPCreate Corporate Platform",
+  "description": "Premium corporate website and AI-driven business development platform for KWPCreate, a leading design and architecture firm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
